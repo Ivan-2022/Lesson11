@@ -33,7 +33,7 @@ def get_candidates_bi_name(candidates_list, candidate_name):
 
 def get_candidates_by_skill(candidates_list, candidate_skill):
     """
-    Возвращает кандидатов по навыку
+    Возвращает кандидатов по навыку(skills)
     """
     candidates = []
     for candidate in candidates_list:
